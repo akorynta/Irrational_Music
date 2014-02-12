@@ -1,0 +1,2 @@
+Next week to make things better, I'll create a modular number system (either mod 8 or mod 13 depending on chromatic vs ionian scales)
+in order to make a more general function with less clutter.
